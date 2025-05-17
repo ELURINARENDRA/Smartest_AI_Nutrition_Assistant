@@ -11,6 +11,6 @@ py -3.11 -m venv myenv
 To run the app.py:
 
 1. streamlit run app.py 
-2. if streamlit run app.py is not recongnised, Please  do 
+2. if streamlit run app.py is not recongnised, Please install the dependencies like
 	pip install streamlit 
 	streamlit run app.py
